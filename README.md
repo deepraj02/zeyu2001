@@ -44,6 +44,7 @@ I am currently serving my full-time National Service in the Singapore Armed Forc
 </p>
 
 <h2 align='center'> Latest Blog Posts 📕 </h2>
+
 <!-- BLOG-POST-LIST:START -->
 - [Network Scanning with Scapy in Python](https://medium.com/python-in-plain-english/network-scanning-with-scapy-in-python-708ed176e63?source=rss-5432bd11c5a7------2)
 - [Build a Chatroom App with Python](https://medium.com/python-in-plain-english/build-a-chatroom-app-with-python-458fc435025a?source=rss-5432bd11c5a7------2)
