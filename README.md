@@ -33,12 +33,16 @@ I am currently serving my full-time National Service in the Singapore Armed Forc
   ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyu2001&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyu2001&show_icons=true" alt="Github Stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyu2001&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyu2001&layout=compact" alt="Top Languages" />
 </a>
 
 <p align='center'>
   <i>GitHub Stats courtesy of <a href="https://github.com/anuraghazra/github-readme-stats">Anurag</a></i>
 </p>
+
+<h2 align='center'> Latest Blog Posts 📕 </h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
