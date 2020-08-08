@@ -46,3 +46,7 @@ I am currently serving my full-time National Service in the Singapore Armed Forc
 <h2 align='center'> Latest Blog Posts 📕 </h2>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<p align='left'>
+  <i>Blog Post Workflow courtesy of <a href="https://github.com/gautamkrishnar/blog-post-workflow">Gautam</a></i>
+</p>
