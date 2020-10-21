@@ -11,7 +11,7 @@
 <h2 align='center'> Hi there! My name is Zeyu (he/him/his). 👋 </h2>
 
 <p align='center'>
-  <b>18 year old programmer</b> from <b>Singapore</b>. 🇸🇬 </br>
+  <b>19 year old programmer</b> from <b>Singapore</b>. 🇸🇬 </br>
   <b>Cyber Specialist Cadet</b> in the <b>Singapore Armed Forces</b>. 👨‍💻 </br>
   <b>Incoming undergraduate</b> at <b>National University of Singapore, School of Computing</b>. 📚 </br>
 </p>
@@ -33,7 +33,7 @@ I am currently serving my full-time National Service in the Singapore Armed Forc
   ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyu2001&show_icons=true" alt="Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyu2001&show_icons=true&count_private=true" alt="Github Stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyu2001&layout=compact" alt="Top Languages" />
