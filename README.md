@@ -49,11 +49,11 @@ I am currently serving my full-time National Service in the Singapore Armed Forc
 <h2 align='center'> Latest Blog Posts 📕 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Simple Chess AI in JavaScript](https://medium.com/@zhangzeyu2001/build-a-simple-chess-ai-in-javascript-22b350abb31?source=rss-5432bd11c5a7------2)
 - [Network Scanning with Scapy in Python](https://medium.com/python-in-plain-english/network-scanning-with-scapy-in-python-708ed176e63?source=rss-5432bd11c5a7------2)
 - [Build a Chatroom App with Python](https://medium.com/python-in-plain-english/build-a-chatroom-app-with-python-458fc435025a?source=rss-5432bd11c5a7------2)
 - [Replace Loops, map() and filter() With List Comprehensions in Python](https://medium.com/python-in-plain-english/replace-loops-map-and-filter-with-list-comprehensions-in-python-f115e0eecbb9?source=rss-5432bd11c5a7------2)
 - [Sorting Algorithms](https://medium.com/python-in-plain-english/sorting-algorithms-6c05e445d0bd?source=rss-5432bd11c5a7------2)
-- [I Built a Python WhatsApp Bot to Keep Me Sane During Quarantine](https://medium.com/python-in-plain-english/i-built-a-python-whatsapp-bot-to-keep-me-sane-during-quarantine-f2f97a092a3b?source=rss-5432bd11c5a7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align='left'>
